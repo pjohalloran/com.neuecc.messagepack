@@ -6,7 +6,7 @@
   "description": "Unity Package for MessagePack (Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#](https://github.com/neuecc/MessagePack-CSharp))",
   "keywords": [],
   "dependencies": {
-    "com.cysharp.plugins": "ssh://git@github.com/pjohalloran/com.cysharp.plugins.git#0.0.2"
+    "com.cysharp.plugins": "0.0.2"
   },
   "relatedPackages": {}
 }
