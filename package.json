@@ -1,12 +1,12 @@
 {
   "name": "com.neuecc.messagepack",
   "displayName": "MessagePack",
-  "version": "2.5.108",
+  "version": "2.5.124",
   "unity": "2021.3",
   "description": "Unity Package for MessagePack (Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#](https://github.com/neuecc/MessagePack-CSharp))",
   "keywords": [],
   "dependencies": {
-    "com.cysharp.plugins": "0.0.2"
+    "com.cysharp.plugins": "0.0.3"
   },
   "relatedPackages": {}
 }
